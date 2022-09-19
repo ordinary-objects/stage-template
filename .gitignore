@@ -1,0 +1,19 @@
+# Ignore Everything
+*
+
+# Application Files
+!CODEOWNERS
+!.gitignore
+!.gitattributes
+!.generated/
+!assets/
+!.keep
+!readme.md
+!LICENSE
+!*.edn
+
+# Data Files
+!*.webm
+!*.webp
+!*.usdz
+!*.glb
